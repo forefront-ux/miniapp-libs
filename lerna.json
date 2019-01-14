@@ -2,7 +2,7 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent"
+  "version": "independent",
   "changelog": {
     "repo": "forefront-ux/miniapp-libs",
     "labels": {

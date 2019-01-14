@@ -1,0 +1,24 @@
+.ma-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.ma-item {
+  width: 100%;
+  background: #fff;
+  color: rgb(51, 51, 51);
+  padding: 24rpx 0;
+  text-align: center;
+  border-bottom: 1rpx solid #d8d8d8;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ma-text {
+  letter-spacing: 2rpx;
+  font-size: 32rpx;
+  font-weight: 500;
+}

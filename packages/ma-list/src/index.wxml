@@ -1,0 +1,5 @@
+<view class="ma-list"  wx:for="{{list}}" wx:key="{{wxkey}}">
+  <view class="ma-item">
+      <text class="ma-text">{{item.text}}</text>
+  </view>
+</view>
